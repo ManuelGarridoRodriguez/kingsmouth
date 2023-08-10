@@ -1,0 +1,94 @@
+{
+  "id": "kingsmouth",
+  "title": "Kingsmouth",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Manuel Garrido",
+      "url": "https://www.mywebsite.com/",
+      "discord": ""
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "10.286"
+  },
+  "packs": [
+    {
+      "name": "bestiario",
+      "label": "Bestiario",
+      "path": "packs/bestiario",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "clases",
+      "label": "Clases",
+      "path": "packs/clases",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "conjuros",
+      "label": "Conjuros",
+      "path": "packs/conjuros",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "culturas",
+      "label": "Culturas",
+      "path": "packs/culturas",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "reglas",
+      "label": "Reglas",
+      "path": "packs/reglas",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tablas-aleatorias",
+      "label": "Tablas aleatorias",
+      "path": "packs/tablas-aleatorias",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "trasfondos",
+      "label": "Trasfondos",
+      "path": "packs/trasfondos",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
