@@ -5,8 +5,8 @@
   "authors": [
     {
       "name": "Manuel Garrido",
-      "url": "https://www.mywebsite.com/",
-      "discord": ""
+      "url": "https://github.com/ManuelGarridoRodriguez",
+      "discord": "garrimanu"
     }
   ],
   "compatibility": {
@@ -21,6 +21,7 @@
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -73,7 +74,7 @@
       "path": "packs/tablas-aleatorias",
       "type": "RollTable",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
