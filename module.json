@@ -90,6 +90,6 @@
       }
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  "manifest": "https://github.com/ManuelGarridoRodriguez/kingsmouth/blob/main/module.json",
+  "download": "https://github.com/ManuelGarridoRodriguez/kingsmouth/archive/refs/heads/main.zip"
 }
