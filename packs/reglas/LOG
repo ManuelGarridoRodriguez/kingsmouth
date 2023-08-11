@@ -1,22 +1,3 @@
-2023/08/11-14:04:17.657 858 Recovering log #58
-2023/08/11-14:04:17.677 858 Delete type=0 #58
-2023/08/11-14:04:17.678 858 Delete type=3 #56
-2023/08/11-14:06:04.161 648 Level-0 table #62: started
-2023/08/11-14:06:04.161 648 Level-0 table #62: 0 bytes OK
-2023/08/11-14:06:04.188 648 Delete type=0 #60
-2023/08/11-14:06:04.212 648 Manual compaction at level-0 from '!journal!R3dTIgA3R2FvtvGC' @ 72057594037927935 : 1 .. '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 0 : 0; will stop at '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 501 : 1
-2023/08/11-14:06:04.212 648 Compacting 2@0 + 0@1 files
-2023/08/11-14:06:04.238 648 Generated table #63@0: 23 keys, 36042 bytes
-2023/08/11-14:06:04.238 648 Compacted 2@0 + 0@1 files => 36042 bytes
-2023/08/11-14:06:04.259 648 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/08/11-14:06:04.259 648 Delete type=2 #54
-2023/08/11-14:06:04.259 648 Delete type=2 #57
-2023/08/11-14:06:04.323 648 Manual compaction at level-0 from '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 501 : 1 .. '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 0 : 0; will stop at (end)
-2023/08/11-14:06:04.430 648 Manual compaction at level-1 from '!journal!R3dTIgA3R2FvtvGC' @ 72057594037927935 : 1 .. '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 0 : 0; will stop at '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 743 : 1
-2023/08/11-14:06:04.431 648 Compacting 1@1 + 1@2 files
-2023/08/11-14:06:04.480 648 Generated table #64@1: 17 keys, 35902 bytes
-2023/08/11-14:06:04.480 648 Compacted 1@1 + 1@2 files => 35902 bytes
-2023/08/11-14:06:04.494 648 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/08/11-14:06:04.495 648 Delete type=2 #42
-2023/08/11-14:06:04.495 648 Delete type=2 #63
-2023/08/11-14:06:04.536 648 Manual compaction at level-1 from '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 743 : 1 .. '!journal.pages!R3dTIgA3R2FvtvGC.yGxf7QgwmOk4UMFg' @ 0 : 0; will stop at (end)
+2023/08/11-14:23:12.973 858 Recovering log #61
+2023/08/11-14:23:12.990 858 Delete type=0 #61
+2023/08/11-14:23:12.990 858 Delete type=3 #59
